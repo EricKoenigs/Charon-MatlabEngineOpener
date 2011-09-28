@@ -1,0 +1,8 @@
+*.bak
+build/
+doc/html
+doc/latex
+doc/*.tmp
+*.mat
+*.swp
+*.cmake
